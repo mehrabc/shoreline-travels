@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shoreline-travels/static/css/main.e23e5800.css",
+    "main.js": "/shoreline-travels/static/js/main.44e9468b.js",
+    "static/media/beachVid.mp4": "/shoreline-travels/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "/shoreline-travels/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/shoreline-travels/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/shoreline-travels/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/shoreline-travels/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/shoreline-travels/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/shoreline-travels/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "index.html": "/shoreline-travels/index.html",
+    "main.e23e5800.css.map": "/shoreline-travels/static/css/main.e23e5800.css.map",
+    "main.44e9468b.js.map": "/shoreline-travels/static/js/main.44e9468b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e23e5800.css",
+    "static/js/main.44e9468b.js"
+  ]
+}
